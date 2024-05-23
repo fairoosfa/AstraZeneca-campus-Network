@@ -1,6 +1,6 @@
-# Project Title: <b> Secure Network for AstraZeneca Campus </B>
+# Project Title: <b> Secure for a Campus Network </B>
 
-AstraZeneca Campus is an education institute with 2 campuses and the main campus in Colombo. The Web server, Moodle server and the Mail servers are located at the main campus which uses high speed Internet leased line connection from the ISP. The Moodle Server which is used to do practical can only be accessed from the local network at the main campus. The main campus network connectivity is provided via wired connections. Layer 2 and Layers 3 security should be implemented on the main branch. Wireless connectivity is provided for the students only for Internet access and strict control of data usage and URL filtering is required.
+ABC Campus is an education institute with 2 campuses and the main campus in Colombo. The Web server, Moodle server and the Mail servers are located at the main campus which uses high speed Internet leased line connection from the ISP. The Moodle Server which is used to do practical can only be accessed from the local network at the main campus. The main campus network connectivity is provided via wired connections. Layer 2 and Layers 3 security should be implemented on the main branch. Wireless connectivity is provided for the students only for Internet access and strict control of data usage and URL filtering is required.
 
 The management of the institute is planning to extend the facilities available in the main campus network to the students in remote campuses through a VPN connectivity and also to minimize the possibility of cyber-attacks to the main campus network to comply with the current network security standards.
 <h2> Following requirements are given by the Management. </h2>
